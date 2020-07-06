@@ -1,2 +1,3 @@
 # win10-hashes
-This repository contains my personal list of hashes for Windows 10 ISOs.
+
+This repository contains different hashes for official Windows 10 ISOs. It is a work in progress, and verifiable contributions are welcome.
